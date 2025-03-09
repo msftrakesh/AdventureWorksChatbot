@@ -52,9 +52,9 @@ builder.Services.AddSingleton<ISemanticTextMemory>(sp =>
 
 
 builder.AddAzureOpenAIChatCompletion(
-    "openai-service-deployment-gpt-4o-rakeshangi-ai",  // Your Deployment Name
-    "https://openai-service-rakeshangi-ai.openai.azure.com/",  // Your Endpoint
-    "G2enkBrSMOaQJfhhp9yLCV7WyFvYtMUqhAvhEfwUi1FyO0opZ72QJQQJ99BCACfhMk5XJ3w3AAABACOG7lah"  // Paste your key here
+    "YOUR DEPLOYEMENT",  // Your Deployment Name
+    "YOUR END POINT",  // Your Endpoint
+    "USE YOUR KEY"  
 );
 
 
