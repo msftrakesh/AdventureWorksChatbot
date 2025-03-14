@@ -3,7 +3,7 @@
 This project is a C# console application that integrates with Microsoft Semantic Kernel to create an intelligent chatbot capable of retrieving and querying database schema information from an AdventureWorks database. The chatbot uses Azure OpenAI GPT-4o for natural language processing and generating SQL queries based on user input.
 
 ### Prerequisites
-.NET 7.0+
+.NET 8.0+
 Azure OpenAI GPT-4o deployment
 AdventureWorks SQL Server database
 
